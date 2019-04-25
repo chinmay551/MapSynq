@@ -1,0 +1,87 @@
+08:49:00,113  INFO mapsync<strong>{1}</strong>:93 - *************************openUrl*****************************
+08:49:01,485  INFO mapsync<strong>{1}</strong>:103 - Browsing URL:http://www.mapsynq.com/# 
+08:49:06,235  INFO mapsync<strong>{1}</strong>:108 - Expected Web Title=mapSYNQ - Live Traffic Information Platform
+08:49:06,235  INFO mapsync<strong>{1}</strong>:109 - Actual Web Title=mapSYNQ - Live Traffic Information Platform
+08:49:09,253  INFO mapsync<strong>{1}</strong>:93 - *************************hideToggleAd*****************************
+08:49:20,739  INFO mapsync<strong>{1}</strong>:35 - Method 'toggleAdVisible' called
+08:49:31,959  INFO mapsync<strong>{1}</strong>:43 - Ad is visible. Click on Ad Button to hide
+08:49:33,095  INFO mapsync<strong>{1}</strong>:46 - Clicked on hide Button.
+08:49:34,217  INFO mapsync<strong>{1}</strong>:93 - *************************newRegistrationPageHeader*****************************
+08:49:34,845  INFO mapsync<strong>{1}</strong>:72 - Clicking on Register
+08:49:38,375  INFO mapsync<strong>{1}</strong>:74 - Clicked on Registerlink
+08:49:38,376  INFO mapsync<strong>{1}</strong>:75 - Will return actual regstration page Header.
+08:49:38,657  INFO mapsync<strong>{1}</strong>:77 - Actual Registration Page Header is:'Create your mapSYNQ account'
+08:49:40,093  INFO mapsync<strong>{1}</strong>:93 - *************************newRegistration*****************************
+08:49:40,976  INFO mapsync<strong>{1}</strong>:162 - entetingregistraton field values
+08:49:40,976  INFO mapsync<strong>{1}</strong>:91 - Entering Jackin first name field
+08:49:41,401  INFO mapsync<strong>{1}</strong>:93 - Entered Jackin first name field
+08:49:41,401  INFO mapsync<strong>{1}</strong>:95 - Entering Sparrowin last name field
+08:49:41,527  INFO mapsync<strong>{1}</strong>:97 - Entered Sparrowin last name field
+08:49:41,528  INFO mapsync<strong>{1}</strong>:99 - Entering Kolkata, 700064in address field
+08:49:41,708  INFO mapsync<strong>{1}</strong>:101 - Entered Kolkata, 700064in address field
+08:49:41,708  INFO mapsync<strong>{1}</strong>:103 - Entering 234567890in contact Number field
+08:49:41,867  INFO mapsync<strong>{1}</strong>:105 - Entered 234567890in contact Number field
+08:49:41,868  INFO mapsync<strong>{1}</strong>:107 - Entering Password@1in password field
+08:49:42,002  INFO mapsync<strong>{1}</strong>:109 - Entered Password@1in password field
+08:49:42,003  INFO mapsync<strong>{1}</strong>:111 - Entering Password@1in confirm Password field
+08:49:42,129  INFO mapsync<strong>{1}</strong>:113 - Entered Password@1in confirm Password field
+08:49:42,129  INFO mapsync<strong>{1}</strong>:115 - Entering 01-19-1987in DOB field
+08:49:42,342  INFO mapsync<strong>{1}</strong>:117 - Entered 01-19-1987in DOB field
+08:49:42,342  INFO mapsync<strong>{1}</strong>:119 - Entering testuserchinmay@gmail.comin email field
+08:49:42,640  INFO mapsync<strong>{1}</strong>:121 - Entered testuserchinmay@gmail.comin email field
+08:49:42,740  INFO mapsync<strong>{1}</strong>:129 - Subscribe CheckBox is selected already.
+08:49:42,741  INFO mapsync<strong>{1}</strong>:132 - Selecting I agree CheckBox
+08:49:42,841  INFO mapsync<strong>{1}</strong>:134 - Selected I agree CheckBox.
+08:49:42,842  INFO mapsync<strong>{1}</strong>:141 - Entering Indiain country field
+08:49:44,156  INFO mapsync<strong>{1}</strong>:144 - Entered Indiain country field
+08:49:44,157  INFO mapsync<strong>{1}</strong>:158 - In-correct Radio button- Failed to select gender.
+08:49:44,157  INFO mapsync<strong>{1}</strong>:166 - Clcking on Create Profile Button
+08:49:45,677  INFO mapsync<strong>{1}</strong>:168 - Clcked on Create Profile Button
+08:49:45,720  INFO mapsync<strong>{1}</strong>:170 - Error message displayed.
+08:49:46,663 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:46,665 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+08:49:46,717 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+08:49:46,718 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+08:49:50,449 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:50,449 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+08:49:50,450 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+08:49:50,450 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+08:49:50,458 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:50,459 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+08:49:50,460 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+08:49:50,460 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+08:49:50,494 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:50,494 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+08:49:50,495 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+08:49:50,495 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+08:49:50,509 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:50,510 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+08:49:50,511 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+08:49:50,511 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+08:49:50,532 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:50,533 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+08:49:50,534 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+08:49:50,534 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+08:49:50,559 DEBUG freemarker.cache<strong>{1}</strong>:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+08:49:50,560 DEBUG freemarker.cache<strong>{1}</strong>:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+08:49:50,562 DEBUG freemarker.cache<strong>{1}</strong>:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+08:49:50,563 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:50,564 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+08:49:50,564 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+08:49:50,564 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+08:49:50,569 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:50,570 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+08:49:50,571 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+08:49:50,571 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+08:49:50,618 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:50,619 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+08:49:50,620 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+08:49:50,620 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+08:49:50,629 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:50,630 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+08:49:50,631 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+08:49:50,631 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+08:49:50,647 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+08:49:50,648 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+08:49:50,649 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+08:49:50,649 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/Selenium/Workspace-Nimble%20tech/MapSync/lib/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
