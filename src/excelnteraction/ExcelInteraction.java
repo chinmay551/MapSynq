@@ -46,6 +46,25 @@ public class ExcelInteraction {
 		 //return row.getCell(colno).getStringCellValue();
 	}
 
+	//************************* Get sheet row count**********************
+	public int getRowCount(String filePath,String fileName,String sheetName) throws IOException{
+		File file = new File(filePath+"\\"+fileName);
+		FileInputStream stream = new FileInputStream(file);
+		String fileExtension = fileName.substring(fileName.indexOf("."));
+		
+		if(fileExtension.equals(".xls")){
+			workbook = new HSSFWorkbook(stream);
+		}else if(fileExtension.equals(".xlsx")){
+			workbook = new XSSFWorkbook(stream);
+			
+		}
+			
+		Sheet sheet = workbook.getSheet(sheetName);
+		//Calculate Row count
+		int rowCount= sheet.getLastRowNum()-sheet.getFirstRowNum();
+		return rowCount;
+	}
+	//*******************************************************************
 	public void generateReport(String filePath, String fileName) throws IOException{
 		File file = new File(filePath+"\\"+fileName);
 		FileOutputStream stream = new FileOutputStream(file);

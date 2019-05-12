@@ -67,7 +67,7 @@ public class Register {
 		PageFactory.initElements(driver, this);
 	}
 	
-	public String registerHeadingString(){
+	public String registerTitleString(){
 		//Click on Register link
 		logger.info("Clicking on Register");
 		registrer.click();

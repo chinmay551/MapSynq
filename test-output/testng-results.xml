@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="66382" started-at="2019-04-25T03:18:45Z" finished-at="2019-04-25T03:19:51Z">
+  <suite name="Suite" duration-ms="34119" started-at="2019-05-12T04:55:34Z" finished-at="2019-05-12T04:56:08Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="66382" started-at="2019-04-25T03:18:45Z" finished-at="2019-04-25T03:19:51Z">
-      <class name="testCases.TestCases">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCases.TestCases@376b4233]" name="setUp" is-config="true" duration-ms="15046" started-at="2019-04-25T03:18:45Z" finished-at="2019-04-25T03:19:00Z">
+    <test name="Test" duration-ms="34119" started-at="2019-05-12T04:55:34Z" finished-at="2019-05-12T04:56:08Z">
+      <class name="testCases.TestCase2">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCases.TestCase2@78186a70]" name="setUp" is-config="true" duration-ms="3914" started-at="2019-05-12T04:55:34Z" finished-at="2019-05-12T04:55:38Z">
           <params>
             <param index="0">
               <value>
@@ -18,115 +18,89 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:testCases.TestCases@376b4233]" name="getMethodName" is-config="true" duration-ms="882" started-at="2019-04-25T03:19:00Z" finished-at="2019-04-25T03:19:00Z">
+        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:testCases.TestCase2@78186a70]" name="getMethodName" is-config="true" duration-ms="400" started-at="2019-05-12T04:55:38Z" finished-at="2019-05-12T04:55:39Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testCases.TestCases.openUrl() throws java.io.IOException]]>
+                <![CDATA[public void testCases.TestCase2.launchBrowserValidatePageTitle() throws java.io.IOException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getMethodName -->
-        <test-method status="PASS" signature="openUrl()[pri:0, instance:testCases.TestCases@376b4233]" name="openUrl" duration-ms="5247" started-at="2019-04-25T03:19:00Z" finished-at="2019-04-25T03:19:06Z">
+        <test-method status="PASS" signature="launchBrowserValidatePageTitle()[pri:0, instance:testCases.TestCase2@78186a70]" name="launchBrowserValidatePageTitle" duration-ms="10831" started-at="2019-05-12T04:55:39Z" finished-at="2019-05-12T04:55:50Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- openUrl -->
-        <test-method status="PASS" signature="getTestExecutionStatus(org.testng.ITestResult)[pri:0, instance:testCases.TestCases@376b4233]" name="getTestExecutionStatus" is-config="true" duration-ms="3000" started-at="2019-04-25T03:19:06Z" finished-at="2019-04-25T03:19:09Z">
+        </test-method> <!-- launchBrowserValidatePageTitle -->
+        <test-method status="PASS" signature="getTestExecutionStatus(org.testng.ITestResult)[pri:0, instance:testCases.TestCase2@78186a70]" name="getTestExecutionStatus" is-config="true" duration-ms="767" started-at="2019-05-12T04:55:50Z" finished-at="2019-05-12T04:55:50Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=openUrl status=SUCCESS method=TestCases.openUrl()[pri:0, instance:testCases.TestCases@376b4233] output={null}]]]>
+                <![CDATA[[TestResult name=launchBrowserValidatePageTitle status=SUCCESS method=TestCase2.launchBrowserValidatePageTitle()[pri:0, instance:testCases.TestCase2@78186a70] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTestExecutionStatus -->
-        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:testCases.TestCases@376b4233]" name="getMethodName" is-config="true" duration-ms="2989" started-at="2019-04-25T03:19:09Z" finished-at="2019-04-25T03:19:12Z">
+        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:testCases.TestCase2@78186a70]" name="getMethodName" is-config="true" duration-ms="727" started-at="2019-05-12T04:55:50Z" finished-at="2019-05-12T04:55:51Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testCases.TestCases.hideToggleAd()]]>
+                <![CDATA[public void testCases.TestCase2.hideVisibleAdScreen() throws java.io.IOException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getMethodName -->
-        <test-method status="PASS" signature="hideToggleAd()[pri:1, instance:testCases.TestCases@376b4233]" name="hideToggleAd" duration-ms="21481" started-at="2019-04-25T03:19:12Z" finished-at="2019-04-25T03:19:33Z">
+        <test-method status="PASS" signature="hideVisibleAdScreen()[pri:1, instance:testCases.TestCase2@78186a70]" name="hideVisibleAdScreen" duration-ms="864" started-at="2019-05-12T04:55:51Z" finished-at="2019-05-12T04:55:52Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- hideToggleAd -->
-        <test-method status="PASS" signature="getTestExecutionStatus(org.testng.ITestResult)[pri:0, instance:testCases.TestCases@376b4233]" name="getTestExecutionStatus" is-config="true" duration-ms="490" started-at="2019-04-25T03:19:33Z" finished-at="2019-04-25T03:19:34Z">
+        </test-method> <!-- hideVisibleAdScreen -->
+        <test-method status="PASS" signature="getTestExecutionStatus(org.testng.ITestResult)[pri:0, instance:testCases.TestCase2@78186a70]" name="getTestExecutionStatus" is-config="true" duration-ms="543" started-at="2019-05-12T04:55:52Z" finished-at="2019-05-12T04:55:52Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=hideToggleAd status=SUCCESS method=TestCases.hideToggleAd()[pri:1, instance:testCases.TestCases@376b4233] output={null}]]]>
+                <![CDATA[[TestResult name=hideVisibleAdScreen status=SUCCESS method=TestCase2.hideVisibleAdScreen()[pri:1, instance:testCases.TestCase2@78186a70] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTestExecutionStatus -->
-        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:testCases.TestCases@376b4233]" name="getMethodName" is-config="true" duration-ms="584" started-at="2019-04-25T03:19:34Z" finished-at="2019-04-25T03:19:34Z">
+        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:testCases.TestCase2@78186a70]" name="getMethodName" is-config="true" duration-ms="522" started-at="2019-05-12T04:55:52Z" finished-at="2019-05-12T04:55:53Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testCases.TestCases.newRegistrationPageHeader() throws java.io.IOException]]>
+                <![CDATA[public void testCases.TestCase2.registration() throws java.io.IOException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getMethodName -->
-        <test-method status="PASS" signature="newRegistrationPageHeader()[pri:2, instance:testCases.TestCases@376b4233]" name="newRegistrationPageHeader" duration-ms="3866" started-at="2019-04-25T03:19:34Z" finished-at="2019-04-25T03:19:38Z">
+        <test-method status="PASS" signature="registration()[pri:2, instance:testCases.TestCase2@78186a70]" name="registration" duration-ms="13836" started-at="2019-05-12T04:55:53Z" finished-at="2019-05-12T04:56:07Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- newRegistrationPageHeader -->
-        <test-method status="PASS" signature="getTestExecutionStatus(org.testng.ITestResult)[pri:0, instance:testCases.TestCases@376b4233]" name="getTestExecutionStatus" is-config="true" duration-ms="1420" started-at="2019-04-25T03:19:38Z" finished-at="2019-04-25T03:19:40Z">
+        </test-method> <!-- registration -->
+        <test-method status="PASS" signature="getTestExecutionStatus(org.testng.ITestResult)[pri:0, instance:testCases.TestCase2@78186a70]" name="getTestExecutionStatus" is-config="true" duration-ms="595" started-at="2019-05-12T04:56:07Z" finished-at="2019-05-12T04:56:07Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=newRegistrationPageHeader status=SUCCESS method=TestCases.newRegistrationPageHeader()[pri:2, instance:testCases.TestCases@376b4233] output={null}]]]>
+                <![CDATA[[TestResult name=registration status=SUCCESS method=TestCase2.registration()[pri:2, instance:testCases.TestCase2@78186a70] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTestExecutionStatus -->
-        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:testCases.TestCases@376b4233]" name="getMethodName" is-config="true" duration-ms="429" started-at="2019-04-25T03:19:40Z" finished-at="2019-04-25T03:19:40Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testCases.TestCases.newRegistration() throws java.io.IOException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getMethodName -->
-        <test-method status="PASS" signature="newRegistration()[pri:3, instance:testCases.TestCases@376b4233]" name="newRegistration" duration-ms="5234" started-at="2019-04-25T03:19:40Z" finished-at="2019-04-25T03:19:45Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- newRegistration -->
-        <test-method status="PASS" signature="getTestExecutionStatus(org.testng.ITestResult)[pri:0, instance:testCases.TestCases@376b4233]" name="getTestExecutionStatus" is-config="true" duration-ms="410" started-at="2019-04-25T03:19:45Z" finished-at="2019-04-25T03:19:46Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=newRegistration status=SUCCESS method=TestCases.newRegistration()[pri:3, instance:testCases.TestCases@376b4233] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getTestExecutionStatus -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testCases.TestCases@376b4233]" name="afterTest" is-config="true" duration-ms="5234" started-at="2019-04-25T03:19:46Z" finished-at="2019-04-25T03:19:51Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testCases.TestCase2@78186a70]" name="afterTest" is-config="true" duration-ms="1089" started-at="2019-05-12T04:56:07Z" finished-at="2019-05-12T04:56:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- testCases.TestCases -->
+      </class> <!-- testCases.TestCase2 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

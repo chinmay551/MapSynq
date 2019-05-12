@@ -113,10 +113,6 @@ public class TestCases {
 	@Test(priority=1)
 	public void hideToggleAd(){
 		pageFactory.FirstPage firstPage= new pageFactory.FirstPage(driver)  ;
-		
-//		if(firstPage.toggleAdVisible()){
-//			firstPage.hideToggleAd();
-//		}
 		Assert.assertTrue(firstPage.toggleAdVisible());
 		
 		
@@ -128,7 +124,7 @@ public class TestCases {
 		
 		pageFactory.Register register = new pageFactory.Register(driver)  ;
 		//Reading Actual Register page heading
-		String actRegisterHeading = register.registerHeadingString();
+		String actRegisterHeading = register.registerTitleString();
 		//Reading Expected Register page heading from Excel.
 		String expRegisterHeading = excel.getCellData(Constant.filePath, Constant.fileName, "Registration",1,0).toString();
 		// Register page heading matching or not

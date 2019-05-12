@@ -1,40 +1,75 @@
-25/04/2019 08:49:00 mapsync *************************openUrl*****************************
-25/04/2019 08:49:01 mapsync Browsing URL:http://www.mapsynq.com/# 
-25/04/2019 08:49:06 mapsync Expected Web Title=mapSYNQ - Live Traffic Information Platform
-25/04/2019 08:49:06 mapsync Actual Web Title=mapSYNQ - Live Traffic Information Platform
-25/04/2019 08:49:09 mapsync *************************hideToggleAd*****************************
-25/04/2019 08:49:20 mapsync Method 'toggleAdVisible' called
-25/04/2019 08:49:31 mapsync Ad is visible. Click on Ad Button to hide
-25/04/2019 08:49:33 mapsync Clicked on hide Button.
-25/04/2019 08:49:34 mapsync *************************newRegistrationPageHeader*****************************
-25/04/2019 08:49:34 mapsync Clicking on Register
-25/04/2019 08:49:38 mapsync Clicked on Registerlink
-25/04/2019 08:49:38 mapsync Will return actual regstration page Header.
-25/04/2019 08:49:38 mapsync Actual Registration Page Header is:'Create your mapSYNQ account'
-25/04/2019 08:49:40 mapsync *************************newRegistration*****************************
-25/04/2019 08:49:40 mapsync entetingregistraton field values
-25/04/2019 08:49:40 mapsync Entering Jackin first name field
-25/04/2019 08:49:41 mapsync Entered Jackin first name field
-25/04/2019 08:49:41 mapsync Entering Sparrowin last name field
-25/04/2019 08:49:41 mapsync Entered Sparrowin last name field
-25/04/2019 08:49:41 mapsync Entering Kolkata, 700064in address field
-25/04/2019 08:49:41 mapsync Entered Kolkata, 700064in address field
-25/04/2019 08:49:41 mapsync Entering 234567890in contact Number field
-25/04/2019 08:49:41 mapsync Entered 234567890in contact Number field
-25/04/2019 08:49:41 mapsync Entering Password@1in password field
-25/04/2019 08:49:42 mapsync Entered Password@1in password field
-25/04/2019 08:49:42 mapsync Entering Password@1in confirm Password field
-25/04/2019 08:49:42 mapsync Entered Password@1in confirm Password field
-25/04/2019 08:49:42 mapsync Entering 01-19-1987in DOB field
-25/04/2019 08:49:42 mapsync Entered 01-19-1987in DOB field
-25/04/2019 08:49:42 mapsync Entering testuserchinmay@gmail.comin email field
-25/04/2019 08:49:42 mapsync Entered testuserchinmay@gmail.comin email field
-25/04/2019 08:49:42 mapsync Subscribe CheckBox is selected already.
-25/04/2019 08:49:42 mapsync Selecting I agree CheckBox
-25/04/2019 08:49:42 mapsync Selected I agree CheckBox.
-25/04/2019 08:49:42 mapsync Entering Indiain country field
-25/04/2019 08:49:44 mapsync Entered Indiain country field
-25/04/2019 08:49:44 mapsync In-correct Radio button- Failed to select gender.
-25/04/2019 08:49:44 mapsync Clcking on Create Profile Button
-25/04/2019 08:49:45 mapsync Clcked on Create Profile Button
-25/04/2019 08:49:45 mapsync Error message displayed.
+12/05/2019 10:25:38 mapsync *************************launchBrowserValidatePageTitle*****************************
+12/05/2019 10:25:39 mapsync ******************Launch URL***************************
+12/05/2019 10:25:39 mapsync Browsing URL:http://www.mapsynq.com/# 
+12/05/2019 10:25:49 mapsync Expected Web Title=mapSYNQ - Live Traffic Information Platform
+12/05/2019 10:25:49 mapsync Actual Web Title=mapSYNQ - Live Traffic Information Platform
+12/05/2019 10:25:50 mapsync *************************hideVisibleAdScreen*****************************
+12/05/2019 10:25:51 mapsync Method 'toggleAdVisible' called
+12/05/2019 10:25:51 mapsync Ad is visible. Click on Ad Button to hide
+12/05/2019 10:25:51 mapsync Clicked on hide Button.
+12/05/2019 10:25:52 mapsync *************************registration*****************************
+12/05/2019 10:25:53 mapsync 2 :Number of regstrations to be done.
+12/05/2019 10:25:53 mapsync Clicking on Register
+12/05/2019 10:25:57 mapsync Clicked on Registerlink
+12/05/2019 10:25:57 mapsync Will return actual regstration page Header.
+12/05/2019 10:25:57 mapsync Actual Registration Page Header is:'Create your mapSYNQ account'
+12/05/2019 10:25:57 mapsync entetingregistraton field values
+12/05/2019 10:25:57 mapsync Entering Jackin first name field
+12/05/2019 10:25:57 mapsync Entered Jackin first name field
+12/05/2019 10:25:57 mapsync Entering Sparrowin last name field
+12/05/2019 10:25:57 mapsync Entered Sparrowin last name field
+12/05/2019 10:25:57 mapsync Entering Kolkata, 700064in address field
+12/05/2019 10:25:58 mapsync Entered Kolkata, 700064in address field
+12/05/2019 10:25:58 mapsync Entering 234567890in contact Number field
+12/05/2019 10:25:58 mapsync Entered 234567890in contact Number field
+12/05/2019 10:25:58 mapsync Entering Password@1in password field
+12/05/2019 10:25:58 mapsync Entered Password@1in password field
+12/05/2019 10:25:58 mapsync Entering Password@1in confirm Password field
+12/05/2019 10:25:58 mapsync Entered Password@1in confirm Password field
+12/05/2019 10:25:58 mapsync Entering 01-19-1987in DOB field
+12/05/2019 10:25:58 mapsync Entered 01-19-1987in DOB field
+12/05/2019 10:25:58 mapsync Entering testuserchinmay@gmail.comin email field
+12/05/2019 10:25:58 mapsync Entered testuserchinmay@gmail.comin email field
+12/05/2019 10:25:59 mapsync Subscribe CheckBox is selected already.
+12/05/2019 10:25:59 mapsync Selecting I agree CheckBox
+12/05/2019 10:25:59 mapsync Selected I agree CheckBox.
+12/05/2019 10:25:59 mapsync Entering Indiain country field
+12/05/2019 10:25:59 mapsync Entered Indiain country field
+12/05/2019 10:25:59 mapsync In-correct Radio button- Failed to select gender.
+12/05/2019 10:25:59 mapsync Clcking on Create Profile Button
+12/05/2019 10:26:00 mapsync Clcked on Create Profile Button
+12/05/2019 10:26:00 mapsync Error message displayed.
+12/05/2019 10:26:00 mapsync ******************Launch URL***************************
+12/05/2019 10:26:00 mapsync Browsing URL:http://www.mapsynq.com/# 
+12/05/2019 10:26:02 mapsync Clicking on Register
+12/05/2019 10:26:03 mapsync Clicked on Registerlink
+12/05/2019 10:26:03 mapsync Will return actual regstration page Header.
+12/05/2019 10:26:03 mapsync Actual Registration Page Header is:'Create your mapSYNQ account'
+12/05/2019 10:26:03 mapsync entetingregistraton field values
+12/05/2019 10:26:03 mapsync Entering chinmayin first name field
+12/05/2019 10:26:03 mapsync Entered chinmayin first name field
+12/05/2019 10:26:03 mapsync Entering sahooin last name field
+12/05/2019 10:26:03 mapsync Entered sahooin last name field
+12/05/2019 10:26:03 mapsync Entering Testng, 789456in address field
+12/05/2019 10:26:03 mapsync Entered Testng, 789456in address field
+12/05/2019 10:26:03 mapsync Entering 1478523690in contact Number field
+12/05/2019 10:26:03 mapsync Entered 1478523690in contact Number field
+12/05/2019 10:26:03 mapsync Entering Password@1in password field
+12/05/2019 10:26:04 mapsync Entered Password@1in password field
+12/05/2019 10:26:04 mapsync Entering Password@1in confirm Password field
+12/05/2019 10:26:04 mapsync Entered Password@1in confirm Password field
+12/05/2019 10:26:04 mapsync Entering 01/01/00in DOB field
+12/05/2019 10:26:04 mapsync Entered 01/01/00in DOB field
+12/05/2019 10:26:04 mapsync Entering testuserchinmay@gmail.comin email field
+12/05/2019 10:26:04 mapsync Entered testuserchinmay@gmail.comin email field
+12/05/2019 10:26:04 mapsync Subscribe CheckBox is selected already.
+12/05/2019 10:26:04 mapsync Selecting I agree CheckBox
+12/05/2019 10:26:04 mapsync Selected I agree CheckBox.
+12/05/2019 10:26:04 mapsync Entering Singaporein country field
+12/05/2019 10:26:04 mapsync Entered Singaporein country field
+12/05/2019 10:26:04 mapsync In-correct Radio button- Failed to select gender.
+12/05/2019 10:26:04 mapsync Clcking on Create Profile Button
+12/05/2019 10:26:05 mapsync Clcked on Create Profile Button
+12/05/2019 10:26:05 mapsync Error message displayed.
+12/05/2019 10:26:05 mapsync ******************Launch URL***************************
+12/05/2019 10:26:05 mapsync Browsing URL:http://www.mapsynq.com/# 
